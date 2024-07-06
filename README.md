@@ -70,8 +70,6 @@ If you want to contribute to this project, please fork the repository and create
 
 ## License
 
-If you want to contribute to this project, please fork the repository and create a pull request.
-
 This project is licensed under the Apache-2.0 License - see the LICENSE file for details.
 
 

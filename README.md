@@ -1,6 +1,10 @@
 # Gemini Chat Bot
 
-This project is a React application configured to run inside a Docker container. It uses Vite for development and building, and integrates the Google Generative AI (Gemini) for chat functionality. I have also added cool animations to make it look better. 
+This project is a React application configured to run inside a Docker container. It uses Vite for development and building, and integrates the Google Generative AI (Gemini) for chat functionality. 
+
+## Why did i build this 
+
+I built this Gemini Chat Bot integration to dive into the Gemini API, Docker and try out some cool animaation. This app has AI chat features with Google Generative AI, making chats super smart and interactive. I used Vite, React, and Tailwind CSS to try out some web animations and get the hang of the Gemini API. Plus, I learned Docker to make deploying and scaling the app a breeze. It was an awesome way to level up my skills and build something really cool. 
 
 ## Prerequisites
 

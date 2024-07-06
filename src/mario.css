@@ -1,0 +1,103 @@
+/* Mario.css */
+
+body{
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  .MarioContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    font-family: 'Space Mono', monospace;
+  }
+  
+  .ChatBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 400px;
+    height: 500px;
+  }
+  
+  .ChatHeader {
+    text-align: center;
+  }
+  
+  .ChatContent {
+    flex: 1;
+    overflow-y: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .Message {
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+  }
+  
+  .Message.user {
+    background-color: #333;
+    align-self: flex-end;
+    text-align: right;
+  }
+  
+  .Message.model {
+    background-color: #555;
+    align-self: flex-start;
+    text-align: left;
+  }
+  
+  .ChatInput {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ChatInput input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    font-family: 'Space Mono', monospace;
+    font-size: 1rem;
+    background-color: #333;
+    color: white;
+    outline: none;
+  }
+  
+  .ChatInput input::placeholder {
+    color: #aaa;
+  }
+  
+  .SendButton {
+    padding: 10px;
+    background-color: #444;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .SendButton:hover {
+    background-color: #555;
+  }
+  
+  .SendButton svg {
+    font-size: 1rem;
+  }

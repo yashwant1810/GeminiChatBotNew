@@ -28,7 +28,6 @@ Create a .env file, add the following and save it in the root directory of the p
 ```bash
 VITE_API_KEY=your_api_key_here
 ```
-This will build the Docker image and start the container. The React application will be available at http://localhost:5173
 
 ### Build and Run the Docker Container
 

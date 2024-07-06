@@ -54,6 +54,12 @@ If you make any changes to the source code or Docker configuration, you will nee
 ```bash
 docker-compose up --build
 ```
+## Screenshots 
+
+<img width="1440" alt="1" src="https://github.com/yashwant1810/GeminiChatBotNew/assets/94227148/841fcf94-5ac7-44d8-a4fa-b4a28b4a18f5">
+<img width="1440" alt="2" src="https://github.com/yashwant1810/GeminiChatBotNew/assets/94227148/eebddd06-1507-4cce-be64-7daf1ced3049">
+<img width="1440" alt="3" src="https://github.com/yashwant1810/GeminiChatBotNew/assets/94227148/bba2635d-c877-4567-bcdb-4814892bfc41">
+<img width="1440" alt="4" src="https://github.com/yashwant1810/GeminiChatBotNew/assets/94227148/e9cb8b5b-ea04-4e49-a01c-f346d66c6062">
 
 ## Help
 

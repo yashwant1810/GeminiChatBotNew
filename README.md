@@ -3,7 +3,7 @@
 This project is a React application configured to run inside a Docker container. It uses Vite for development and building, and integrates the Google Generative AI (Gemini) for chat functionality. 
 ## Test it out !! 
 
-[GeminiChatBotNew](https://gemini-chat-bot-fqsvz54v5-yashwant1810s-projects.vercel.app)
+[GeminiChatBotNew](https://gemini-chat-bot-new.vercel.app/)
 please dont send too many requests TT 
 ## Why did i build this 
 
